@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinithkumar Alande</h1>
+
 - 🚀 Passionate about Machine Learning, Artificial Intelligence, and Web Development 
 - 🌐 🤖 Always exploring the frontiers of AI, from deep learning to natural language processing. 
 - 💻 Crafting web experiences with HTML, CSS, and JavaScript. Building for both form and function. 
