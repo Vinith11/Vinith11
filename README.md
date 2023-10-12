@@ -3,8 +3,6 @@
 - 🚀 Passionate about Machine Learning, Artificial Intelligence, and Web Development <br>
 - 🌐 🤖 Always exploring the frontiers of AI, from deep learning to natural language processing. 
 - 💻 Crafting web experiences with HTML, CSS, and JavaScript. Building for both form and function. 
-- 📚 Lifelong learner and open-source enthusiast. Sharing knowledge and code with the community. 
--  🌟 Let's connect and innovate together! 📫
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinith11&label=Profile%20views&color=0e75b6&style=flat" alt="vinith11" /> </p>
 
