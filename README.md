@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinithkumar Alande</h1>
-- 🚀 Passionate about Machine Learning, Artificial Intelligence, and Web Development 🌐 
-- 🤖 Always exploring the frontiers of AI, from deep learning to natural language processing. 
+
+- 🚀 Passionate about Machine Learning, Artificial Intelligence, and Web Development 🌐
+  
+- 🤖 Always exploring the frontiers of AI, from deep learning to natural language processing.
+  
 - 💻 Crafting web experiences with HTML, CSS, and JavaScript. Building for both form and function. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinith11&label=Profile%20views&color=0e75b6&style=flat" alt="vinith11" /> </p>
